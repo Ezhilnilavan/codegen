@@ -1,0 +1,13 @@
+{
+  "name": "mcp-lit-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "generate": "node generate-lit-components-from-figma.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
