@@ -1,0 +1,11 @@
+{
+  "colorPrimary": "#0078D4",
+  "colorBackground": "#fff",
+  "colorFooter": "#222",
+  "fontSizeHeader": "24px",
+  "fontSizeMain": "16px",
+  "fontSizeFooter": "14px",
+  "borderRadiusHeader": "12px",
+  "borderRadiusMain": "8px",
+  "borderRadiusFooter": "6px"
+}

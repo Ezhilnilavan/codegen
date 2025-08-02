@@ -1,0 +1,30 @@
+{
+  "document": {
+    "children": [
+      {
+        "id": "1:2",
+        "name": "Header",
+        "type": "FRAME",
+        "fills": [{"color": "#0078D4"}],
+        "style": {"fontSize": 24},
+        "cornerRadius": 12
+      },
+      {
+        "id": "1:3",
+        "name": "MainSection",
+        "type": "FRAME",
+        "fills": [{"color": "#fff"}],
+        "style": {"fontSize": 16},
+        "cornerRadius": 8
+      },
+      {
+        "id": "1:4",
+        "name": "Footer",
+        "type": "COMPONENT",
+        "fills": [{"color": "#222"}],
+        "style": {"fontSize": 14},
+        "cornerRadius": 6
+      }
+    ]
+  }
+}

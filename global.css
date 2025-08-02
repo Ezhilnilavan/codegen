@@ -1,0 +1,35 @@
+:root {
+  --color-primary: #0078D4;
+  --color-background: #fff;
+  --color-footer: #222;
+  --font-size-header: 24px;
+  --font-size-main: 16px;
+  --font-size-footer: 14px;
+  --border-radius-header: 12px;
+  --border-radius-main: 8px;
+  --border-radius-footer: 6px;
+}
+
+.header {
+  background: var(--color-primary);
+  font-size: var(--font-size-header);
+  border-radius: var(--border-radius-header);
+  color: #fff;
+  padding: 16px;
+}
+
+.main-section {
+  background: var(--color-background);
+  font-size: var(--font-size-main);
+  border-radius: var(--border-radius-main);
+  color: #222;
+  padding: 16px;
+}
+
+.footer {
+  background: var(--color-footer);
+  font-size: var(--font-size-footer);
+  border-radius: var(--border-radius-footer);
+  color: #fff;
+  padding: 16px;
+}
